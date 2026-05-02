@@ -19,7 +19,7 @@ Load project into Android Studio. Choose Menu>Build>Generate App Bundles or APK>
 
 Build to device:
 Enable Developer Options and USB Debugging on the device. 
-Connect your phone to your computer using a reliable USB cable that transmits data.
+Connect your device to your computer using a reliable USB cable that transmits data.
 In the Android Studio toolbar, look for the Device Dropdown (next to the green Run icon).
 Select your physical phone from the list of Connected Devices.
 Click the green Run button (or press Shift + F10).
