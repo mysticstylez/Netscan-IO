@@ -12,7 +12,18 @@ Install JDK 17 into the .tools directory
 
 Import project into Android Studio
 
-Build
+-
+
+Build for APK:
+Load project into Android Studio. Choose Menu>Build>Generate App Bundles or APK>Generate APKS
+
+Build to device:
+Enable Developer Options and USB Debugging on the device. 
+Connect your phone to your computer using a reliable USB cable that transmits data.
+In the Android Studio toolbar, look for the Device Dropdown (next to the green Run icon).
+Select your physical phone from the list of Connected Devices.
+Click the green Run button (or press Shift + F10).
+Android Studio will build the APK, install it on your phone, and launch the app automatically.
 
 Questions & Support:
 https://discord.gg/u5b8kyWRgF
