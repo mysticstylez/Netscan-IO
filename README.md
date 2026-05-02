@@ -23,7 +23,7 @@ Connect your device to your computer using a reliable USB cable that transmits d
 In the Android Studio toolbar, look for the Device Dropdown (next to the green Run icon).
 Select your physical phone/device from the list of Connected Devices.
 Click the green Run button (or press Shift + F10).
-Android Studio will build the APK, install it on your phone, and launch the app automatically.
+Android Studio will build the APK, install it on your phone/device, and launch the app automatically.
 
 Questions & Support:
 https://discord.gg/u5b8kyWRgF
