@@ -7,7 +7,9 @@ JDK 17 https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.h
 Setup:
 
 Create .tools dir in the home folder
+
 Install JDK 17 into the .tools directory
+
 Import project into Android Studio
 
 Build
