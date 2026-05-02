@@ -1,0 +1,4 @@
+io.netscan.app.test.app-androidTest-0 C:\Users\Ghostdog Studio\Desktop\Netscan IO\app\build\generated\res\resValues\androidTest\debug
+io.netscan.app.test.app-mergeDebugAndroidTestResources-1 C:\Users\Ghostdog Studio\Desktop\Netscan IO\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+io.netscan.app.test.app-mergeDebugAndroidTestResources-2 C:\Users\Ghostdog Studio\Desktop\Netscan IO\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+io.netscan.app.test.app-merged_res-3 C:\Users\Ghostdog Studio\Desktop\Netscan IO\app\build\intermediates\merged_res\debugAndroidTest

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "io.netscan.app-mergeDebugResources-35:/layout/activity_bluetooth_scan.xml",
+        "source": "io.netscan.app-main-38:/layout/activity_bluetooth_scan.xml"
+    },
+    {
+        "merged": "io.netscan.app-mergeDebugResources-35:/layout/item_bluetooth_device.xml",
+        "source": "io.netscan.app-main-38:/layout/item_bluetooth_device.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ghostdog Studio\\.gradle\\daemon\\8.4\\io.netscan.app-mergeDebugResources-35:\\layout\\activity_sftp.xml",
+        "source": "C:\\Users\\Ghostdog Studio\\.gradle\\daemon\\8.4\\io.netscan.app-main-38:\\layout\\activity_sftp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ghostdog Studio\\.gradle\\daemon\\8.4\\io.netscan.app-mergeDebugResources-35:\\layout\\activity_terminal.xml",
+        "source": "C:\\Users\\Ghostdog Studio\\.gradle\\daemon\\8.4\\io.netscan.app-main-38:\\layout\\activity_terminal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ghostdog Studio\\.gradle\\daemon\\8.4\\io.netscan.app-mergeDebugResources-35:\\layout\\item_device.xml",
+        "source": "C:\\Users\\Ghostdog Studio\\.gradle\\daemon\\8.4\\io.netscan.app-main-38:\\layout\\item_device.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ghostdog Studio\\.gradle\\daemon\\8.4\\io.netscan.app-mergeDebugResources-35:\\layout\\activity_packet_tool.xml",
+        "source": "C:\\Users\\Ghostdog Studio\\.gradle\\daemon\\8.4\\io.netscan.app-main-38:\\layout\\activity_packet_tool.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ghostdog Studio\\.gradle\\daemon\\8.4\\io.netscan.app-mergeDebugResources-35:\\layout\\item_remote_file.xml",
+        "source": "C:\\Users\\Ghostdog Studio\\.gradle\\daemon\\8.4\\io.netscan.app-main-38:\\layout\\item_remote_file.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ghostdog Studio\\.gradle\\daemon\\8.4\\io.netscan.app-mergeDebugResources-35:\\layout\\activity_device_detail.xml",
+        "source": "C:\\Users\\Ghostdog Studio\\.gradle\\daemon\\8.4\\io.netscan.app-main-38:\\layout\\activity_device_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ghostdog Studio\\.gradle\\daemon\\8.4\\io.netscan.app-mergeDebugResources-35:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Ghostdog Studio\\.gradle\\daemon\\8.4\\io.netscan.app-main-38:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "io.netscan.app-mergeDebugResources-35:/layout/activity_main.xml",
+        "source": "io.netscan.app-main-38:/layout/activity_main.xml"
+    }
+]

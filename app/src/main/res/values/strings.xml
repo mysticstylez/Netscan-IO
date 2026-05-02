@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Netscan IO</string>
+    <string name="network_overview">Gateway and Network</string>
+    <string name="network_summary_hint">Inspect the current network, sweep the local subnet, and launch remote sessions.</string>
+    <string name="start_scan">Scan Local Network</string>
+    <string name="scan_idle">Ready to scan the active network.</string>
+    <string name="scan_running">Scanning the local subnet...</string>
+    <string name="scan_complete">Scan complete. %1$d device(s) found.</string>
+    <string name="packet_summary_idle">No packet test has been run yet.</string>
+</resources>

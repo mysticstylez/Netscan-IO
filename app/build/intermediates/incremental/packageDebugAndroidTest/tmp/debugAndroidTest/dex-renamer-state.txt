@@ -1,0 +1,4 @@
+#Sat May 02 12:43:22 EDT 2026
+base.0=C\:\\Users\\Ghostdog Studio\\Desktop\\Netscan IO\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+renamed.0=classes.dex
+path.0=0/classes.dex

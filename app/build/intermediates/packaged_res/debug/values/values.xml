@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="accent">#4EC2FF</color>
+    <color name="black">#000000</color>
+    <color name="card_bg">#102235</color>
+    <color name="hero_bg">#14324C</color>
+    <color name="screen_bg">#08131F</color>
+    <color name="text_primary">#F4F8FB</color>
+    <color name="text_secondary">#A9BBCB</color>
+    <color name="toolbar_bg">#07111C</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">Netscan IO</string>
+    <string name="network_overview">Gateway and Network</string>
+    <string name="network_summary_hint">Inspect the current network, sweep the local subnet, and launch remote sessions.</string>
+    <string name="packet_summary_idle">No packet test has been run yet.</string>
+    <string name="scan_complete">Scan complete. %1$d device(s) found.</string>
+    <string name="scan_idle">Ready to scan the active network.</string>
+    <string name="scan_running">Scanning the local subnet...</string>
+    <string name="start_scan">Scan Local Network</string>
+    <style name="Theme.NetscanIO" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/accent</item>
+        <item name="colorSecondary">@color/accent</item>
+        <item name="android:statusBarColor">@color/screen_bg</item>
+        <item name="android:navigationBarColor">@color/screen_bg</item>
+        <item name="android:windowBackground">@color/screen_bg</item>
+        <item name="android:forceDarkAllowed" ns1:targetApi="q">false</item>
+    </style>
+</resources>
