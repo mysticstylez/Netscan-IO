@@ -21,7 +21,7 @@ Build to device:
 Enable Developer Options and USB Debugging on the device. 
 Connect your device to your computer using a reliable USB cable that transmits data.
 In the Android Studio toolbar, look for the Device Dropdown (next to the green Run icon).
-Select your physical phone from the list of Connected Devices.
+Select your physical phone/device from the list of Connected Devices.
 Click the green Run button (or press Shift + F10).
 Android Studio will build the APK, install it on your phone, and launch the app automatically.
 
